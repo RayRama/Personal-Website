@@ -486,8 +486,8 @@ img {
   width: 85%;
 }
 
-.skills__java {
-  width: 50%;
+.skills__laravel {
+  width: 80%;
 }
 
 .skills__html {
@@ -498,12 +498,16 @@ img {
   width: 80%;
 }
 
+.skills__react {
+  width: 80%;
+}
+
 .skills__nodejs {
   width: 70%;
 }
 
 .skills__cpp {
-  width: 80%;
+  width: 60%;
 }
 
 .skills__close .skills__list {
